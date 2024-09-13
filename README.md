@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository showcases various projects I've worked 
 
 ## Live Site
 
-You can view the live version of my portfolio at [https://victorbutita.github.io/victorbutita-portfolio/](https://victorbutita.github.io/victorbutita-portfolio/).
+You can view the live version of my portfolio at (https://victor-butita.github.io/victorbutita-portfolio/).
 
 ## Projects
 
